@@ -1,3 +1,7 @@
+1.1.0
+==================
+    - markup_choices can no longer be a dict (deprecated pre-1.0)
+
 1.0.1 - 28 Feb 2011
 ===================
     - added a fix for MarkupField to work with South >= 0.7
